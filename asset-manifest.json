@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sport-events/static/css/main.9922e437.chunk.css",
+    "main.js": "/sport-events/static/js/main.f2cd268c.chunk.js",
+    "main.js.map": "/sport-events/static/js/main.f2cd268c.chunk.js.map",
+    "runtime~main.js": "/sport-events/static/js/runtime~main.a2ab4f5d.js",
+    "runtime~main.js.map": "/sport-events/static/js/runtime~main.a2ab4f5d.js.map",
+    "static/js/2.5a5e869b.chunk.js": "/sport-events/static/js/2.5a5e869b.chunk.js",
+    "static/js/2.5a5e869b.chunk.js.map": "/sport-events/static/js/2.5a5e869b.chunk.js.map",
+    "index.html": "/sport-events/index.html",
+    "precache-manifest.32646b12a954895a90a9ee7e434d41b7.js": "/sport-events/precache-manifest.32646b12a954895a90a9ee7e434d41b7.js",
+    "service-worker.js": "/sport-events/service-worker.js",
+    "static/css/main.9922e437.chunk.css.map": "/sport-events/static/css/main.9922e437.chunk.css.map"
+  }
+}
